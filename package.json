@@ -2,7 +2,7 @@
   "name": "monster",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/marosvida/monster-relodax",
+  "homepage": "https://marosvida.github.io/monster-relodax",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
