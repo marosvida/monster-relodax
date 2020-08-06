@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/marosvida/monster-relodax/static/css/main.e6b2f020.chunk.css",
-    "main.js": "/marosvida/monster-relodax/static/js/main.19adb37c.chunk.js",
-    "main.js.map": "/marosvida/monster-relodax/static/js/main.19adb37c.chunk.js.map",
-    "runtime-main.js": "/marosvida/monster-relodax/static/js/runtime-main.6db0d173.js",
-    "runtime-main.js.map": "/marosvida/monster-relodax/static/js/runtime-main.6db0d173.js.map",
-    "static/js/2.eca8dab0.chunk.js": "/marosvida/monster-relodax/static/js/2.eca8dab0.chunk.js",
-    "static/js/2.eca8dab0.chunk.js.map": "/marosvida/monster-relodax/static/js/2.eca8dab0.chunk.js.map",
-    "index.html": "/marosvida/monster-relodax/index.html",
-    "precache-manifest.401f14bf018d2faf060ddba55ce8b6d1.js": "/marosvida/monster-relodax/precache-manifest.401f14bf018d2faf060ddba55ce8b6d1.js",
-    "service-worker.js": "/marosvida/monster-relodax/service-worker.js",
-    "static/css/main.e6b2f020.chunk.css.map": "/marosvida/monster-relodax/static/css/main.e6b2f020.chunk.css.map",
-    "static/js/2.eca8dab0.chunk.js.LICENSE.txt": "/marosvida/monster-relodax/static/js/2.eca8dab0.chunk.js.LICENSE.txt"
+    "main.css": "/monster-relodax/static/css/main.e6b2f020.chunk.css",
+    "main.js": "/monster-relodax/static/js/main.cabc6172.chunk.js",
+    "main.js.map": "/monster-relodax/static/js/main.cabc6172.chunk.js.map",
+    "runtime-main.js": "/monster-relodax/static/js/runtime-main.42b1d51f.js",
+    "runtime-main.js.map": "/monster-relodax/static/js/runtime-main.42b1d51f.js.map",
+    "static/js/2.eca8dab0.chunk.js": "/monster-relodax/static/js/2.eca8dab0.chunk.js",
+    "static/js/2.eca8dab0.chunk.js.map": "/monster-relodax/static/js/2.eca8dab0.chunk.js.map",
+    "index.html": "/monster-relodax/index.html",
+    "precache-manifest.d634995239d28825da7fb57e6bc5de9b.js": "/monster-relodax/precache-manifest.d634995239d28825da7fb57e6bc5de9b.js",
+    "service-worker.js": "/monster-relodax/service-worker.js",
+    "static/css/main.e6b2f020.chunk.css.map": "/monster-relodax/static/css/main.e6b2f020.chunk.css.map",
+    "static/js/2.eca8dab0.chunk.js.LICENSE.txt": "/monster-relodax/static/js/2.eca8dab0.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.6db0d173.js",
+    "static/js/runtime-main.42b1d51f.js",
     "static/js/2.eca8dab0.chunk.js",
     "static/css/main.e6b2f020.chunk.css",
-    "static/js/main.19adb37c.chunk.js"
+    "static/js/main.cabc6172.chunk.js"
   ]
 }
